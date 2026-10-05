@@ -402,7 +402,7 @@ Selected areas include:
 <div align="center">
 
 <a href="https://github.com/PANKAJ955956">
-  <img src="https://raw.githubusercontent.com/PANKAJ955956/PANKAJ955956/output/github-contribution-grid-snake.gif" alt="Animated GitHub contribution snake" width="100%">
+  <img src="https://raw.githubusercontent.com/PANKAJ955956/PANKAJ955956/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" width="100%">
 </a>
 
 </div>
