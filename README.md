@@ -402,18 +402,10 @@ Selected areas include:
 <div align="center">
 
 <a href="https://github.com/PANKAJ955956">
-  <img src="https://raw.githubusercontent.com/PANKAJ955956/PANKAJ955956/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%">
-</a>
-
-<br>
-
-<a href="https://github.com/PANKAJ955956">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PANKAJ955956&bg_color=00000000&color=0EA5E9&line=7C3AED&point=0EA5E9&area=true&hide_border=true" alt="GitHub activity graph" width="100%">
+  <img src="https://raw.githubusercontent.com/PANKAJ955956/PANKAJ955956/output/github-contribution-grid-snake.gif" alt="Animated GitHub contribution snake" width="100%">
 </a>
 
 </div>
-
-> **Snake workflow note:** the snake image requires a GitHub Actions workflow in `.github/workflows/snake.yml` that publishes `github-contribution-grid-snake.svg` to the `output` branch. The README image alone cannot generate the animation.
 
 ---
 
