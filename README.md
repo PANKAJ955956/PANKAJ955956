@@ -476,3 +476,4 @@ Selected areas include:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:4f46e5,100:7c3aed&height=140&section=footer" alt="Animated footer">
 
 </div>
+
